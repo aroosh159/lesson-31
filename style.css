@@ -1,0 +1,17 @@
+#social_media{
+    background-color: navy;
+}
+.media-link{
+    padding: 1rem;
+    max-width: 15rem;
+    margin-left: 1rem;
+    border: 2px solid yellow;
+    border-radius: 5px;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: grey;
+    font-family: 'Courier New', Courier, monospace;
+}
